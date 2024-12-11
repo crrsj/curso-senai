@@ -1,4 +1,4 @@
-Projeto desenvolvido para o curso técnico de análise e desenvolvimento de sistemas,uma API para gerenciamento de livros.
+Projeto desenvolvido para o curso técnico de desenvolvimento de sistemas do Senai,uma API para gerenciamento de livros.
 Conceitos utilizados:-
 -API-rest
 -DTO
