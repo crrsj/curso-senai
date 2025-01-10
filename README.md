@@ -15,4 +15,4 @@ Tecnologias:
 -Docker
 Swagger
 Para iniciar o container docker com o postgres: docker compose up -d
-Para encerrar: docker compose down -d
+Para encerrar: docker compose down
