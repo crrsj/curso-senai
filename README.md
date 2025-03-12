@@ -12,7 +12,6 @@ Tecnologias:
 -Spring
 -H2
 -Postgres
--Docker
 Swagger
 Para iniciar o container docker com o postgres: docker compose up -d
 Para encerrar: docker compose down
