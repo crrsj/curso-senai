@@ -10,9 +10,9 @@ import io.swagger.v3.oas.annotations.info.Info;
 @SpringBootApplication
 @OpenAPIDefinition(
 		info = @Info(
-			title = "API - Sistema para gerenciar livros.",
+			title = "API - Livraria.",
 			version = "1.0",
-			description = "Documentando uma API para um sistema para gerenciamento de livros.",
+			description = "API para gerenciamento de livraria .",
 			contact = @Contact(name = "Carlos Roberto", email = "crrsj1@gmail.com")
 		)
 	)
